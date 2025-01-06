@@ -29,7 +29,7 @@ A pesar de que **Nexo** está en sus primeras etapas, ya hay varias maneras en l
 
 Si tienes preguntas, ideas o estás interesado en colaborar, no dudes en ponerte en contacto conmigo o hacer un pull request:
 
-- Correo electrónico: [tu_correo@example.com](mailto:sm8contact@gmail.com)
+- Correo electrónico: [Click para enviar](mailto:sm8contact@gmail.com)
 - Twitter (X.com): [@Nexo_projectt](https://x.com/Nexo_projectt)
 - Discord: [Enlace al servidor](https://discord.gg/sfbyY3kC)
 
